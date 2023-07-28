@@ -1,0 +1,14 @@
+import sys
+sys.path.append("..")
+
+class {{model_class}}:
+ 
+    def predict(self, data: dict) -> dict:
+        # Clean # prepare data
+        self.prepare_data(data)
+
+        # Prediction logic here
+
+    def prepare_data(self, data):
+        pass
+        # Data preparation logic here

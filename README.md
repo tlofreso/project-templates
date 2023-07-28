@@ -1,2 +1,2 @@
 # project-templates
-Learning elegant ways to use copier for rapid project development
+Learning elegant ways to use [copier](https://copier.readthedocs.io/) for rapid project development
