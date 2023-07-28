@@ -45,7 +45,7 @@ def test_defaults_values(
         src_path=str(TEMPLATE_ROOT),
         dst_path=dst_path,
         data=test_answers,
-        default=True,
+        defaults=True,
         unsafe=True,
     )
     assert worker is not None
